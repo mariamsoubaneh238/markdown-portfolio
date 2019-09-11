@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of grass](https://cdn2.unrealengine.com/Unreal+Engine%2Fblog%2Fepic-announces-unreal-engine-marketplace-88-12-revenue-share%2FFEATURE_UEMarketplace_RevenuShare-1920x960-0b8bb62bee720e2f5c3e4fca10e6d31e080f9266.jpg)
